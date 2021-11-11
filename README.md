@@ -22,7 +22,7 @@
   
 <h2 align="center">Project Description</h2>
 
-![screenshot](ss1.png)
+![screenshot](img/ss1.png)
 
 
 
@@ -59,10 +59,10 @@ The text files will simply be characters used to represent consecutive cells as 
 
 ### Common Patterns:
 **Blinker**
-![screenshot](ss3.png)
+![screenshot](img/ss3.png)
 
 **Glider**
-![screenshot](ss4.png)
+![screenshot](img/ss4.png)
 
 
 
